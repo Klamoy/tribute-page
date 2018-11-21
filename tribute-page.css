@@ -1,17 +1,45 @@
 html, body{
-  width:100%;
+  max-width:100%;
   text-align:center;
   filt-family:Helvetica, sans-serif;
+  font-size:18px;
 }
 #main {
-  
+  width:100%;
+  margin: 20px auto;
+  background:#d9e1e2;
+  border-radius:1%;
 }
 #title {
   
  
 }
+#img-div {
+  background:white;
+  margin:5px 50px 5px 50px;
+}
 #image {
   max-width:100%;
   height:auto;
   margin:0 auto;
+  display:block;
+}
+#img-caption {
+  margin:10px;
+}
+.name-shop{
+  color:#f29632;
+  
+}
+
+#tribute-info ul {
+  max-width:400px;
+  margin:0 auto;
+  text-align:left;
+}
+#tribute-info li {
+  margin:5px;
+}
+#tribute-link a{
+  text-decoration:none;
 }
