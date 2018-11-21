@@ -1,0 +1,17 @@
+html, body{
+  width:100%;
+  text-align:center;
+  filt-family:Helvetica, sans-serif;
+}
+#main {
+  
+}
+#title {
+  
+ 
+}
+#image {
+  max-width:100%;
+  height:auto;
+  margin:0 auto;
+}
